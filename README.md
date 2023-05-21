@@ -18,9 +18,9 @@ A simple portfolio template for developer/designers built with React.
 
 
 
-My it your own in a few simple steps.
+# My it your own in a few simple steps.
 
-### 1: Go to your terminal(Bash) and copy paste the following command.
+# 1: Go to your terminal(Bash) and copy paste the following command.
 <pre>gh repo clone hmnajam/My-Resume2</pre>
 This will clone the whole repository in your own computer.
 
@@ -30,19 +30,18 @@ This will clone the whole repository in your own computer.
 
 
 
-3: Install required dependencies. Copy and paste the following command into your terminal to install dependencies.
+# 3: Install required dependencies. Copy and paste the following command into your terminal to install dependencies.
 <pre>yarn install</pre>
 
 
-4: Now start the server by copy pasting the following command into your terminal.Start the server
+# 4: Now start the server by copy pasting the following command into your terminal.Start the server
 <pre>yarn start</pre>
 
 
 
-5: Now modify pages content in  `src/content_option.js`.
-### More
+# 5: Now modify pages content in  `src/content_option.js`.
 
 
-### Thanks
+# Thanks
 
-If you like this portfolio template don't forget give it a ⭐ 
+# If you like this portfolio template don't forget give it a ⭐ 
