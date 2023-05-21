@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://najamsaeed.vercel.app/)
 
 [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
@@ -16,9 +16,9 @@ A simple portfolio template for developer/designers built with React.
 
 ### Setup
 
-Get the code
+My it your own in a few simple steps.
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>gh repo clone hmnajam/My-Resume2</pre>
  
 Install required dependencies
 
