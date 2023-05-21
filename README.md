@@ -20,12 +20,12 @@ A simple portfolio template for developer/designers built with React.
 
 My it your own in a few simple steps.
 
-1: Go to your terminal(Bash) and copy paste the following command.
+### 1: Go to your terminal(Bash) and copy paste the following command.
 <pre>gh repo clone hmnajam/My-Resume2</pre>
 This will clone the whole repository in your own computer.
 
 
-2: Move into your working directory. Now move into your working directory by running
+# 2: Move into your working directory. Now move into your working directory by running
 <pre>cd "your directory"</pre>
 
 
