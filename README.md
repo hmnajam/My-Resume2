@@ -18,7 +18,7 @@ A simple portfolio template for developer/designers built with React.
 
 
 
-# My it your own in a few simple steps.
+# Make it your own in a few simple steps.
 
 # 1: Go to your terminal(Bash) and copy paste the following command.
 <pre>gh repo clone hmnajam/My-Resume2</pre>
