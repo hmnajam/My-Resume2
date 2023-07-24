@@ -52,7 +52,7 @@ const skills = [{
     },
     {
         name: "HTML5",
-        value: 60,
+        value: 80,
     },
     {
         name: "CSS3",
@@ -64,11 +64,11 @@ const skills = [{
     },
     {
         name: "Tailwind CSS",
-        value: 60,
+        value: 70,
     },
     {
         name: "TypeScript",
-        value: 60,
+        value: 70,
     },
     {
         name: "Solidity",
@@ -77,15 +77,15 @@ const skills = [{
 
     {
         name: "NextJs",
-        value: 85,
+        value: 90,
     },
     {
         name: "Git & GitHub.com",
-        value: 60,
+        value: 95,
     },
     {
         name: "React Native",
-        value: 60,
+        value: 30,
     },
     
     {
