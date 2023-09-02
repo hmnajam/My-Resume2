@@ -9,6 +9,7 @@ import AppRoutes from "./routes";
 import Headermain from "../header";
 import AnimatedCursor  from "../hooks/AnimatedCursor";
 import "./App.css";
+<meta name="google-site-verification" content="V3k3TTAOgL7ohX-Gihs3y1C-zxiqTSBn0CEyaGg-vsU" />
 
 function _ScrollToTop(props) {
   const { pathname } = useLocation();
